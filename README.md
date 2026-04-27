@@ -37,27 +37,112 @@ Também atuo fortemente na criação de **Bots para Discord** super otimizados, 
 
 <div align="center">
 
-### 💻 Linguagens
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🖥️ Linguagens de Programação
+<div>
+ <img title="NodeJS" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+ <img title="PHP" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+ <img title="GO" alt="GO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+ <img title="TypeScript" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+ <img title="JavaScript" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img title="Solidity" alt="Solidity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
+ <img title="Lua" alt="Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
+ <img title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
-### 🎨 Frontend & NUI
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🎨 Frontend
+<div>
+ <img title="VueJS" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+ <img title="React" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img title="Angular" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
+ <img title="HTML5" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+ <img title="CSS3" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+ <img title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+ <img title="Tailwind CSS" alt="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+</div>
 
-### ⚙️ Backend, Infra & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🔙 Ferramentas e Frameworks Backend
+<div>
+ <img title="Express" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+ <img title="Fastify" alt="Fastify" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg">
+ <img title="RabbitMQ" alt="RabbitMQ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg">
+ <img title="Socket.IO" alt="Socket.IO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/socketio/socketio-original.svg">
+</div>
+
+### 💾 Banco de Dados
+<div>
+ <img title="MySQL" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+ <img title="MSSQL" alt="MSSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+ <img title="PostgreSQL" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+ <img title="SQLite" alt="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+ <img title="MongoDB" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
+ <img title="Redis" alt="Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
+ <img title="MariaDB" alt="MariaDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg">
+</div>
+
+### 🛠️ ORM e Ferramentas de Manipulação de Banco de Dados
+<div>
+ <img title="Prisma" alt="Prisma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/prisma/prisma-original.svg">
+ <img title="TypeORM" alt="TypeORM" height="30" width="40" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4">
+ <img title="Sequelize" alt="Sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
+</div>
+
+### ☁️ Cloud e DevOps
+<div>
+ <img title="AWS" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+ <img title="GCP" alt="GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+ <img title="DigitalOcean" alt="DigitalOcean" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg">
+ <img title="Vercel" alt="Vercel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vercel/vercel-original.svg">
+ <img title="Cloudflare" alt="Cloudflare" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg">
+</div>
+
+### 📦 Infraestrutura e Contêineres
+<div>
+ <img title="Docker" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
+ <img title="NGINX" alt="NGINX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+ <img title="Apache" alt="Apache" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
+ <img title="Linux" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div>
+
+### 🔄 Controle de Versão e CI/CD
+<div>
+ <img title="Git" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ <img title="GitHub Actions" alt="GitHub Actions" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg">
+</div>
+
+### 📊 Monitoramento e Logs
+<div>
+ <img title="Sentry" alt="Sentry" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sentry/sentry-original.svg">
+ <img title="New Relic" alt="New Relic" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/newrelic.svg">
+</div>
+
+### 🧑‍💻 Ferramentas de Desenvolvimento e Editores
+<div>
+ <img title="VSCode" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+ <img title="Vim" alt="Vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vim/vim-plain.svg">
+ <img title="Nano" alt="Nano" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nano/nano-plain.svg">
+ <img title="OhMyZsh" alt="OhMyZsh" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ohmyzsh/ohmyzsh-plain.svg">
+</div>
+
+### 🔍 Teste e Documentação de API
+<div>
+ <img title="Postman" alt="Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-plain.svg">
+ <img title="Insomnia" alt="Insomnia" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg">
+ <img title="Swagger" alt="Swagger" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
+</div>
+
+### 🛠️ Outros
+<div>
+ <img title="SSH" alt="SSH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg">
+ <img title="Shell Script" alt="Shell Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+ <img title="Puppeteer" alt="Puppeteer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/puppeteer/puppeteer-original.svg">
+</div>
+
+### 📋 Ferramentas de Organização e Produtividade
+<div>
+ <img title="Notion" alt="Notion" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
+ <img title="Trello" alt="Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
+ <img title="Slack" alt="Slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
+</div>
 
 </div>
 
