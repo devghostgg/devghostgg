@@ -6,7 +6,7 @@
 
 **Desenvolvedor Full Stack | Criador de Bots | Especialista em FiveM e RedM**
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dyjZ8TxnZG)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2qrarsxv7j)
 [![Portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devghostgg)
 
 </div>
@@ -22,7 +22,7 @@ Além do desenvolvimento in-game, também crio **Bots avançados para Discord**,
 - 🔭 **Atualmente trabalhando em:** Sistemas SaaS, automações e produtos exclusivos para a [South Network](https://github.com/southnetworkgg).
 - 🌱 **Aprendendo:** Inteligência Artificial e aprofundamento em Go/Rust.
 - 💬 **Pergunte-me sobre:** Lua, Node.js, Vue.js, React e integrações com Discord.
-- 📫 **Como me encontrar:** Pelo meu Discord `devghostgg_` ou no [servidor oficial](https://discord.gg/dyjZ8TxnZG).
+- 📫 **Como me encontrar:** Pelo meu Discord `devghostgg_` ou no [servidor oficial](https://discord.gg/2qrarsxv7j).
 
 ---
 
