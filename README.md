@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2C2D72&height=250&section=header&text=Isaias%20Ghost&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20-%20FiveM%20and%20RedM%20Specialist&descAlignY=55&descAlign=62" />
 
-# 👋 Olá, eu sou Isaias Silva Guedes (Ghost)!
+# 👋 Olá, eu sou Ghost!
 
 **Desenvolvedor Full Stack | Criador de Bots | Especialista em FiveM e RedM**
 
