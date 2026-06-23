@@ -12,8 +12,8 @@ Hi there, I'm Isaias, but you can also call me [Ghost](https://discord.gg/2qrars
 
 ## GitHub Stats
 
-[![Ghostgg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devghostgg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/devghostgg)
-[![Ghostgg's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devghostgg&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/devghostgg)
+[![Ghostgg's GitHub Stats](https://raw.githubusercontent.com/devghostgg/devghostgg/output/stats.svg)](https://github.com/devghostgg)
+[![Ghostgg's Top Langs](https://raw.githubusercontent.com/devghostgg/devghostgg/output/top-langs.svg)](https://github.com/devghostgg)
 
 ## Discord
 
