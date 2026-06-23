@@ -12,8 +12,8 @@ Hi there, I'm Isaias, but you can also call me [Ghost](https://discord.gg/2qrars
 
 ## GitHub Stats
 
-[![Ghostgg's GitHub Stats](https://github.com/devghostgg/devghostgg/blob/output/stats.svg)](https://github.com/devghostgg)
-[![Ghostgg's Top Langs](https://github.com/devghostgg/devghostgg/blob/output/top-langs.svg)](https://github.com/devghostgg)
+[![Ghostgg's GitHub Stats](https://raw.githubusercontent.com/devghostgg/devghostgg/output/stats.svg)](https://github.com/devghostgg)
+[![Ghostgg's Top Langs](https://raw.githubusercontent.com/devghostgg/devghostgg/output/top-langs.svg)](https://github.com/devghostgg)
 
 ## Discord
 
@@ -22,7 +22,7 @@ Hi there, I'm Isaias, but you can also call me [Ghost](https://discord.gg/2qrars
 ## Commit Snake 🐍
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/devghostgg/devghostgg/blob/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/devghostgg/devghostgg/blob/output/github-snake-light.svg">
-  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github.com/devghostgg/devghostgg/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devghostgg/devghostgg/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devghostgg/devghostgg/output/github-snake-light.svg">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://raw.githubusercontent.com/devghostgg/devghostgg/output/github-snake-dark.svg">
 </picture>
