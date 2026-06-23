@@ -23,6 +23,6 @@ Hi there, I'm Isaias, but you can also call me [Ghost](https://discord.gg/2qrars
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devghostgg/devghostgg/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devghostgg/devghostgg/output/github-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devghostgg/devghostgg/output/github-snake-light.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devghostgg/devghostgg/output/github-snake-dark.svg">
 </picture>
