@@ -17,7 +17,7 @@ Hi there, I'm Isaias, but you can also call me [Ghost](https://discord.gg/2qrars
 
 ## Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1265815742385754226?hideActivity=whenNotUsed)](https://discord.com/users/1265815742385754226)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1265815742385754226)](https://discord.com/users/1265815742385754226)
 
 ## Commit Snake 🐍
 
