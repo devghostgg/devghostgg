@@ -1,6 +1,6 @@
 # Welcome to my profile! 👋
 
-Hi there, I'm Isaias, but you can also call me [Ghost](https://discord.gg/2qrarsxv7j) or [Ghost](https://github.com/devghostgg)! 👨‍💻
+Hi there, I'm Isaias, but you can also call me [Ghost](https://discord.gg/2qrarsxv7j)! 👨‍💻
 
 ## About Me
 
